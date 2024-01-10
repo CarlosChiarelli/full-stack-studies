@@ -22,4 +22,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For any questions or concerns, please contact [Your Name](mailto:your@email.com).
+For any questions or concerns, please contact [Carlos Chiarelli](ca.chiarelli.97@gmail.com).
