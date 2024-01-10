@@ -1,0 +1,89 @@
+Para fazer um projeto full-stack TDD com fastapi e react vou precisar desses cursos:
+
+---
+
+front end
+
+html css pt-br:
+
+https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+
+javascript pt-br:
+
+https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm
+
+nodejs pt-br:
+
+https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B
+
+react pt-br:
+
+https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
+
+redux pt-br:
+
+https://www.youtube.com/watch?v=mXI2-gjIZ40
+https://www.youtube.com/watch?v=u99tNt3TZf8
+https://www.youtube.com/watch?v=M9TA87qf2c4&list=PLxuFqIk29JL3zVN13DDYRXY3w3YJzc9pH
+
+---
+
+
+fastapi tdd
+
+leitura pt-br:
+
+https://fastapidozero.dunossauro.com/
+
+pt-br:
+
+https://www.udemy.com/course/fastapi-avancado-2023-2-projetos-tdd-postgresql/
+
+en:
+
+https://testdriven.io/courses/tdd-fastapi/
+
+en:
+
+https://www.youtube.com/watch?v=Yw4LmMQXXFs&list=PL8VzFQ8k4U1L5QpSapVEzoSfob-4CR8zM
+
+---
+
+react tdd
+
+pt-br:
+
+https://www.youtube.com/watch?v=FfZ2igvaxaw&list=PLE0DHiXlN_qqPy4HA3MOv-jI7ND2kKaqc
+
+pt-br:
+
+https://www.youtube.com/watch?v=OV5sXQDCPXU
+
+pt-br:
+
+https://www.youtube.com/watch?v=p1bjHvX-DqM
+
+en:
+
+https://www.udemy.com/course/react-with-test-driven-development/
+
+---
+
+fastapi + react
+
+pt-br:
+
+https://www.udemy.com/course/full-stack-farm-fastapi-mongodb-e-react-na-pratica/
+
+en:
+
+https://testdriven.io/blog/fastapi-react/
+
+en:
+
+https://www.youtube.com/watch?app=desktop&v=PW1RhQPuQxc
+
+
+
+
+
