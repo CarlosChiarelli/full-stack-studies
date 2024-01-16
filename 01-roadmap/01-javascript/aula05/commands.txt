@@ -1,0 +1,68 @@
+> n1=5.9
+5.9
+> n1.toFixed(3)
+'5.900'
+> n1.toFixed(3).replace('.', ',')
+'5,900'
+> n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
+'R$ 5,90'
+> n1.toLocaleString('pt-BR', {style: 'currency', currency: 'USD'})
+'US$ 5,90'
+> n = 10
+10
+> ++n
+11
+> n
+11
+> m = 5
+5
+> m--
+5
+> m
+4
+> m+=2
+6
+> m
+6
+> m%4
+2
+> var x = 5
+undefined
+> var y = '5'
+undefined
+> typeof x
+'number'
+> typeof y
+'string'
+> x == y
+true
+> x === y
+false
+> x != y
+false
+> x !== y
+true
+> var a = 5
+undefined
+> var b = 8
+undefined
+> a > b && b % 2 == 0
+false
+> a <= b || b / 2 == 2
+true
+> !true
+false
+> var media = 5.5
+undefined
+> media > 7? 'APROVADO':'REPROVADO'
+'REPROVADO'
+> media += 3
+8.5
+> media > 7? 'APROVADO':'REPROVADO'
+'APROVADO'
+> var idade = 19
+undefined
+> var r = idade >= 18 ? 'maior' : 'menor'
+undefined
+> r
+'maior'
