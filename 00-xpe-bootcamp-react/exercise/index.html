@@ -1,13 +1,25 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hi</title>
-  </head>
-  <body>
-    <h1>Hello world!</h1>
-    <p>First <strong>example</strong>.</p>
-    <script src="app.js"></script>
-  </body>
-</html>
+<head lang="pt-BR">
+  <meta charset="utf-8" />
+  <title>Employees</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="errors"></div>
+  <form>
+    <label>Name: <input name="name" /></label>
+    <label>Salary: <input type="number" name="salary" /></label>
+    <label
+      >Role:
+      <select name="role_id"></select
+    ></label>
+    <div>
+      <button type="button" id="bdelete">Delete</button>
+      <button type="button" id="bcancel">Cancel</button>
+      <button type="submit" id="bsubmit">Update</button>
+    </div>
+  </form>
+  <ul></ul>
+  <script src="http.js"></script>
+  <script src="main.js"></script>
+</body>
