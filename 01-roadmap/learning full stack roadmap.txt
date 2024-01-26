@@ -88,6 +88,18 @@ en:
 https://www.youtube.com/watch?v=Cy9fAvsXGZA
 
 
+---
+
+Challenge: e-Commerce full cycle (29/01) (pt-br)
+
+Backend FastApi
+Front React
+RabbitMQ
+Prometheus
+Grafana
+Elastic Stack
+
+
 
 
 
