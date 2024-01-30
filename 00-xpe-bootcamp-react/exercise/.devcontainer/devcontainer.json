@@ -31,7 +31,9 @@
       "extensions": [
         "esbenp.prettier-vscode",
         "MS-CEINTL.vscode-language-pack-pt-BR",
-        "ritwickdey.LiveServer"
+        "ritwickdey.LiveServer",
+        "formulahendry.code-runner",
+        "oderwat.indent-rainbow"
       ]
     }
   }
