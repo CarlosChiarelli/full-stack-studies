@@ -25,7 +25,7 @@
   "editor.fontFamily": "'JetBrains Mono', 'Fira Code Retina', Consolas, monospace",
   "editor.fontLigatures": false,
   "editor.fontSize": 13,
-  "editor.lineHeight": 24,
+  "editor.lineHeight": 18,
   "update.mode": "manual",
   "editor.renderWhitespace": "all",
   "editor.rulers": [
