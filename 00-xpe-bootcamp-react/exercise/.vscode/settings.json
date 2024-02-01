@@ -22,7 +22,7 @@
   "workbench.colorTheme": "Dracula",
   "workbench.iconTheme": "material-icon-theme",
   "debug.console.fontFamily": "JetBrains Mono",
-  "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontFamily": "'JetBrains Mono', 'Fira Code Retina', Consolas, monospace",
   "editor.fontLigatures": false,
   "editor.fontSize": 13,
   "editor.lineHeight": 24,
