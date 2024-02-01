@@ -50,7 +50,7 @@
   "breadcrumbs.enabled": false,
   "editor.parameterHints.enabled": true,
   "vsicons.dontShowNewVersionMessage": true,
-  "files.autoSave": "onFocusChange",
+  "files.autoSave": "afterDelay",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "workbench.editor.enablePreview": false,
   "[javascript]": {
