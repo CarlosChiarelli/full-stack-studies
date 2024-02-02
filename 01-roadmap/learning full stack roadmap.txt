@@ -99,7 +99,14 @@ Prometheus
 Grafana
 Elastic Stack
 
+---
 
+[!]
+
+Adicionar estudo de:
+
+* Tailwind CSS
+* TypeScript
 
 
 
