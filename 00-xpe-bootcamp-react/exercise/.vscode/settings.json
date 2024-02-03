@@ -95,10 +95,6 @@
   "prettier.arrowParens": "avoid",
   "prettier.useTabs": true,
   "liveServer.settings.donotShowInfoMsg": true,
-  "indentRainbow.includedLanguages": [
-    "html"
-  ],
-  "indentRainbow.updateDelay": 100,
   "[javascript][javascriptreact][typescript][typescriptreact]": {
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": "explicit"
