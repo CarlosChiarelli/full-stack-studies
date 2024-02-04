@@ -37,7 +37,8 @@
         "dracula-theme.theme-dracula",
         "pkief.material-icon-theme",
         "aeschli.vscode-css-formatter",
-        "johnpapa.vscode-peacock"
+        "johnpapa.vscode-peacock",
+        "steoates.autoimport"
       ]
     }
   }
