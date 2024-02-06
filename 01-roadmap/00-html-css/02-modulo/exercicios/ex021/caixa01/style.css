@@ -1,0 +1,67 @@
+h1 {
+	/*
+  <h1> é box-level
+  display: block
+  */
+
+	background-color: lightgray;
+	height: 300px;
+	width: 300px;
+	/* 
+	border-width: 5px;
+	border-style: solid;
+	border-color: darkolivegreen;
+ */
+	border: 5px solid darkolivegreen;
+
+	/* 
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+
+  padding: 10px 10px 10px 10px;
+ */
+	padding: 10px;
+
+	/* 
+  // outra forma de simplificar
+  
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+
+  padding: 10px 20px;
+ */
+
+	/* 
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	margin-left: 40px;
+ */
+
+	margin: 10px 20px 30px 40px;
+
+	/*
+  // posso quer centrarlizar apenas as margens da esquerda e direita
+  margin: 10px auto 30px auto;
+  */
+}
+
+a {
+	/*
+  <a> é box-inline
+  display: inline
+  */
+
+	border-width: 2px;
+	border-style: dashed;
+	border-color: red;
+
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+}
