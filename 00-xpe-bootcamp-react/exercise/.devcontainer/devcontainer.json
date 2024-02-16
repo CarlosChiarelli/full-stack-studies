@@ -34,6 +34,7 @@
         "csstools.postcss",
         "dbaeumer.vscode-eslint",
         "bradlc.vscode-tailwindcss",
+        "chakrounanas.turbo-console-log",
         "dracula-theme.theme-dracula",
         "pkief.material-icon-theme",
         "aeschli.vscode-css-formatter",
