@@ -1,0 +1,225 @@
+    1  ls ..
+    2  ls ../00/
+    3  ls ../00/material/
+    4  node -v
+    5  cd backend/
+    6  npm install
+    7  npm start
+    8  npm install json-server
+    9  npx json-server db.json
+   10  npx json-server db.json
+   11  cd backend/
+   12  history
+   13  npx json-server db.json
+   14  npx json-server db.json
+   15  cd backend/
+   16  history
+   17  npx json-server db.json
+   18  cd data/
+   19  history
+   20  npx json-server products.json
+   21  npx json-server products.json
+   22  cd ..
+   23  cd data/
+   24  history
+   25  npx json-server products.json
+   26  npx json-server products.json
+   27  cd solution-me/
+   28  cd data/
+   29  history
+   30  npx json-server products.json
+   31  cd data/
+   32  historuc[
+   33  historic
+   34  history
+   35  npx json-server products.json
+   36  ls
+   37  npx json-server products.json
+   38  cd data/
+   39  npx json-server products.json
+   40  cd ..
+   41  cd solution-me/data/
+   42  npx json-server products.json
+   43  git commit -m "add trabalho pratico 1"
+   44  git push
+   45  git commit -m "update modulo 01"   
+   46  git push
+   47  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/codigo-aulas/Aulas/Aula2.2/index.js"
+   48  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   49  npm install date-fns
+   50  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   51  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   52  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   53  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   54  npm install date-fns
+   55  rm -rf node_modules/
+   56  npm install date-fns
+   57  npm install date-fns --save
+   58  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   59  npm install date-fns
+   60  node
+   61  npm install axios
+   62  npm install axios
+   63  npm install axios
+   64  node
+   65  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   66  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   67  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   68  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   69  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   70  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   71  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   72  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   73  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   74  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/index.js"
+   75  code --list-extensions
+   76  npm install axios
+   77  npm install axios
+   78  node --experimental-specifier-resolution=node http.js
+   79  node --experimental-specifier-resolution=node http.js
+   80  node --experimental-specifier-resolution=node ./assets/js/http.js
+   81  node --experimental-specifier-resolution=node ./assets/js/http.js
+   82  node --experimental-specifier-resolution=node ./assets/js/http.js
+   83  node --experimental-specifier-resolution=node ./assets/js/http.js
+   84  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+   85  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+   86  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+   87  node
+   88  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http2.js"
+   89  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http2.js"
+   90  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http2.js"
+   91  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http2.js"
+   92  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http2.js"
+   93  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http2.js"
+   94  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http2.js"
+   95  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+   96  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+   97  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+   98  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+   99  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+  100  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+  101  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+  102  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+  103  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+  104  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+  105  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+  106  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+  107  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/http.js"
+  108  npm install date-fns
+  109  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/index.js"
+  110  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/index.js"
+  111  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/index.js"
+  112  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/index.js"
+  113  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/index.js"
+  114  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/index.js"
+  115  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/assets/js/index.js"
+  116  rm -rf assets/
+  117  rm -rf codigo-aulas/
+  118  rm -rf API_CovidAula/
+  119  rm -rf node_modules/
+  120  history | grep unzip
+  121  unzip API_CovidAula.zip -d api
+  122  node -v
+  123  node -v
+  124  echo "     .       "
+  125  echo "     MODULO 2       "
+  126  echo "     .       "
+  127  history
+  128  node -v
+  129  npm -v
+  130  npx -v
+  131  npm install -g yarn 
+  132  yarn -v
+  133  npm i -g rimraf
+  134  rimraf
+  135  rimraf --help
+  136  npm i -g serve
+  137  code --list-extensions
+  138  git status
+  139  git add .vscode/settings.json 
+  140  npx create-react-app ambiente
+  141  cd ambiente/
+  142  yarn start
+  143  history
+  144  node -v
+  145  npm -v
+  146  npx -v
+  147  yarn -v
+  148  rimraf --help
+  149  npm i -g rimraf
+  150  rimraf --help
+  151  npm i -g serve
+  152  rm -rf ambiente/
+  153  npx create-react-app ambiente
+  154  cd ambiente/
+  155  yarn start
+  156  cd ..
+  157  cd react-teste-projeto-base/
+  158  yarn
+  159  yarn dev
+  160  yarn dev
+  161  yarn dev
+  162  yarn cache clean
+  163  yarn dev
+  164  yarn set version latest
+  165  yarn dev
+  166  rm -rf node_modules yarn.lock
+  167  yarn
+  168  yarn dev
+  169  cd react-teste-projeto-base/
+  170  yarn cache clean
+  171  history
+  172  node -v
+  173  yarn -v
+  174  npm i -g rimraf
+  175  npm i -g serve
+  176  yarn
+  177  rm -rf node_modules yarn.lock
+  178  yarn
+  179  yarn dev
+  180  yarn dev
+  181  code --list-extensions
+  182  yarn dev
+  183  cd react-teste-projeto-base/
+  184  yarn dev
+  185  cd ..
+  186  git status
+  187  git sta
+  188  git status
+  189  cd react-teste-projeto-base/
+  190  yarn dev
+  191  git status
+  192  cd react-hello/
+  193  yarn
+  194  yarn dev
+  195  cd react-hello/
+  196  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/react-hello/src/App.js"
+  197  node "/workspaces/full-stack-studies/00-xpe-bootcamp-react/exercise/react-hello/src/index.js"
+  198  yarn dev
+  199  cd react-hello/
+  200  yarn dev
+  201  cd react-countries/
+  202  yarn
+  203  cd react-countries/
+  204  ls
+  205  cd react-countries/
+  206  yarn dev
+  207  cd react-countries/
+  208  yarn dev
+  209  yarn dev
+  210  cd react-investiment/
+  211  npm install
+  212  npm dev
+  213  npm run dev
+  214  cd react-elections/
+  215  npm install
+  216  history
+  217  npm dev
+  218  cd backend/
+  219  npm install
+  220  npm server
+  221  ls
+  222  cd react-elections/
+  223  cd backend/
+  224  history
+  225  history > commands.txt
