@@ -39,7 +39,8 @@
         "pkief.material-icon-theme",
         "aeschli.vscode-css-formatter",
         "johnpapa.vscode-peacock",
-        "steoates.autoimport"
+        "steoates.autoimport",
+        "styled-components.vscode-styled-components"
       ]
     }
   }

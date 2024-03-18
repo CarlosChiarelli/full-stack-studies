@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "name": "Homework",
+      "isDone": false,
+      "id": "2"
+    },
+    {
+      "name": "Work",
+      "isDone": false,
+      "id": "3"
+    },
+    {
+      "name": "Clear room",
+      "isDone": false,
+      "id": "4"
+    },
+    {
+      "name": "Cook",
+      "isDone": false,
+      "id": "5"
+    }
+  ]
+}
