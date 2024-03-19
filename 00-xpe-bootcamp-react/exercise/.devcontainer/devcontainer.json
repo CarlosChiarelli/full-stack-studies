@@ -40,7 +40,8 @@
         "aeschli.vscode-css-formatter",
         "johnpapa.vscode-peacock",
         "steoates.autoimport",
-        "styled-components.vscode-styled-components"
+        "styled-components.vscode-styled-components",
+        "orta.vscode-jest" // jest
       ]
     }
   }
